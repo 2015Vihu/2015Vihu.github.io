@@ -1,6 +1,6 @@
 {
-    "name": "test_new_flow",
-    "short_name": "test_new_flow",
+    "name": "soccergeeks",
+    "short_name": "soccergeeks",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
